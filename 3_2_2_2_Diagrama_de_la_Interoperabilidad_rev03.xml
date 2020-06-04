@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-04T17:44:44.808Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="GkQ9LRQLWHrDe6UM1oI7" version="13.1.14" type="github" pages="2">
+<mxfile modified="2020-06-04T18:13:38.454Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="G4mtMM9zpo78UHZBWEGw" version="13.1.14" type="github" pages="2">
   <diagram id="d79c708d-616b-fdbf-71db-0155e15f4269" name="Esquema Hibrido">
     <mxGraphModel dx="2031" dy="2188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -878,7 +878,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Esquema Nube Privada OnPremise" id="ULAgFfgVskZ9Fuy8uk5J">
-    <mxGraphModel dx="3197" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2397" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="b_XZQCGp1UyxgnM_f1tw-0" />
         <mxCell id="b_XZQCGp1UyxgnM_f1tw-1" parent="b_XZQCGp1UyxgnM_f1tw-0" />
@@ -967,15 +967,16 @@
             <mxPoint x="483.57142857142867" y="77.42857142857144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_XZQCGp1UyxgnM_f1tw-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;html=1;shadow=0;startArrow=none;startFill=0;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4277BB;strokeWidth=2;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.014;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="b_XZQCGp1UyxgnM_f1tw-4" source="7deQdBCTMr5RRV00f2Ib-6" target="b_XZQCGp1UyxgnM_f1tw-9">
+        <mxCell id="b_XZQCGp1UyxgnM_f1tw-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;html=1;shadow=0;startArrow=none;startFill=0;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4277BB;strokeWidth=2;jumpStyle=none;exitX=1.014;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.071;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="b_XZQCGp1UyxgnM_f1tw-4" source="7deQdBCTMr5RRV00f2Ib-6" target="b_XZQCGp1UyxgnM_f1tw-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="633" />
               <mxPoint x="520" y="556" />
-              <mxPoint x="570" y="556" />
+              <mxPoint x="540" y="556" />
+              <mxPoint x="560" y="557" />
             </Array>
             <mxPoint x="521" y="670" as="sourcePoint" />
-            <mxPoint x="558.4117647058824" y="229.0588235294117" as="targetPoint" />
+            <mxPoint x="560" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b_XZQCGp1UyxgnM_f1tw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="b_XZQCGp1UyxgnM_f1tw-1">
