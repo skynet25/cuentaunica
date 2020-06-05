@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-04T20:40:10.564Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mJnhlMTUz0wG_9_DX8iQ" version="13.1.14" type="github" pages="2">
+<mxfile modified="2020-06-05T11:09:17.204Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="e2uYnAvDf4xfe3v3Hmbe" version="13.1.14" type="github" pages="2">
   <diagram id="d79c708d-616b-fdbf-71db-0155e15f4269" name="Esquema Hibrido">
     <mxGraphModel dx="1346" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1541,7 +1541,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_XZQCGp1UyxgnM_f1tw-89" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/security/firewall.svg;labelBackgroundColor=none;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="b_XZQCGp1UyxgnM_f1tw-1">
-          <mxGeometry x="605" y="103" width="60" height="60" as="geometry" />
+          <mxGeometry x="605" y="80" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_XZQCGp1UyxgnM_f1tw-80" value="SEGURIDAD" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/security/security_services.svg;labelBackgroundColor=none;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#000000;direction=south;" vertex="1" parent="b_XZQCGp1UyxgnM_f1tw-1">
           <mxGeometry x="1161" y="157.1428571428571" width="60" height="60" as="geometry" />
