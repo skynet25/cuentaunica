@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-05T14:21:06.852Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="owGSiJOmHWZ-AKP_geoW" version="13.1.14" type="github">
+<mxfile modified="2020-06-05T16:19:00.337Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="JJ5ZvrbC2Mh0cUeWQneO" version="13.1.14" type="github">
   <diagram id="7881a58d-f445-9cbd-abc9-f13a61042135" name="Page-1">
     <mxGraphModel dx="4211" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -394,10 +394,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="888" value="&lt;b&gt;&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;&lt;/b&gt;Conexión de red&lt;br&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-351.50010463169656" y="1164.8529411764705" width="200" height="120" as="geometry" />
+          <mxGeometry x="-110.00010463169656" y="607.0029411764705" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="890" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;Artifact&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;VPN&lt;/font&gt;&lt;br&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="-320.00010463169656" y="1234.3529411764705" width="137" height="30" as="geometry" />
+          <mxGeometry x="-78.50010463169656" y="683.0029411764705" width="137" height="30" as="geometry" />
         </mxCell>
         <mxCell id="891" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="890" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
