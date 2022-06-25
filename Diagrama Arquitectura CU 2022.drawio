@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T16:14:05.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tEGatn4FkjvAmT7cUyh8" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T16:37:12.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xhJHdKagqIpz1yy3k45W" version="20.0.3" type="github">
   <diagram id="YyVtHMCVjJAJdgX77xl3" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
             <mxPoint x="659" y="224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="Dba_KshNGZGqnBGReFBX-10" target="rfN_ANFpvwZ0smsy0Tpu-46">
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="Dba_KshNGZGqnBGReFBX-10" target="rfN_ANFpvwZ0smsy0Tpu-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dba_KshNGZGqnBGReFBX-10" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
@@ -89,6 +89,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-2" target="rfN_ANFpvwZ0smsy0Tpu-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="570" />
+              <mxPoint x="381" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-2" value="Modulo de &lt;br&gt;Infracciones" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="240" y="600" width="50" height="50" as="geometry" />
         </mxCell>
@@ -98,11 +106,19 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-4" target="rfN_ANFpvwZ0smsy0Tpu-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-4" target="rfN_ANFpvwZ0smsy0Tpu-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="649" />
+              <mxPoint x="690" y="606" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-4" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="520" y="624" width="48" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-5" value="Infracciones&lt;br&gt;(informix)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="710" y="645" width="60" height="60" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-5" value="RSIRAT&lt;br&gt;Infracciones&lt;br&gt;(informix)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;gradientDirection=north;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="810" y="674" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-9" target="rfN_ANFpvwZ0smsy0Tpu-2">
           <mxGeometry relative="1" as="geometry">
@@ -113,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-9" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="100" y="645" width="48" height="50" as="geometry" />
+          <mxGeometry x="70" y="640" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-13" value="Vencimientos" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="240" y="455" width="59" height="59" as="geometry" />
@@ -129,9 +145,6 @@
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-17" value="&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;1. Información&lt;br&gt;para Propuesta de Declaración de Impuesto a la Renta Anual de Personas&lt;br&gt;Jurídicas&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size:9.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&lt;br/&gt;Arial;mso-ansi-language:ES;mso-fareast-language:ES-PE;mso-bidi-language:AR-SA&quot; lang=&quot;ES&quot;&gt;2. Información&lt;br/&gt;para Propuesta de Declaración de Impuesto a la Renta Anual de Personas&lt;br/&gt;Naturales&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="600" y="25" width="200" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-18" value="(Información para emisión de resoluciones de multa)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="660" y="745" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-19" value="&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Segunda Fase&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;- Declarar cifras y datos falsos&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;- No pagar dentro de los plazos&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;registro&lt;/li&gt;&lt;li&gt;baja&lt;/li&gt;&lt;li&gt;reproceso&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="34" y="725" width="180" height="122" as="geometry" />
@@ -151,13 +164,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-22" value="Generación de Solicitudes Automáticas" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.event_time_based;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="131.75" y="1480" width="56.5" height="56.5" as="geometry" />
+          <mxGeometry x="121.75" y="1460" width="56.5" height="56.5" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-23" target="rfN_ANFpvwZ0smsy0Tpu-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="1365" />
-              <mxPoint x="300" y="1330" />
+              <mxPoint x="280" y="1365" />
+              <mxPoint x="280" y="1330" />
               <mxPoint x="440" y="1330" />
               <mxPoint x="440" y="1256" />
             </Array>
@@ -181,8 +194,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="1260" />
-              <mxPoint x="400" y="1070" />
-              <mxPoint x="450" y="1070" />
+              <mxPoint x="400" y="1090" />
+              <mxPoint x="450" y="1090" />
               <mxPoint x="450" y="300" />
               <mxPoint x="530" y="300" />
               <mxPoint x="530" y="130" />
@@ -195,8 +208,8 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-35" value="&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Primera Fase&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;- Modificación de Datos (parte y oficio) Virtual. y Automático&amp;nbsp;(oficio)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Segunda Fase&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;- Reconocimiento de Pago con error (parte y oficio) virtual y Automático&amp;nbsp;(oficio)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Tercera Fase&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;- Compensaciones&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(parte y oficio) virtual y Automático&amp;nbsp;(oficio) y generar cuentas de acumulación&lt;br&gt;Cuarta Fase&lt;br&gt;- Reimputación de boletas SPOT&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(parte y oficio) virtual y (oficio) Automático y generar cuentas de acumulación&lt;br&gt;&lt;/span&gt;Quinta Fase&lt;br&gt;- Devoluciones de Pagos Indebidos y en Exceso&amp;nbsp;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;(parte y oficio) virtual y (oficio) Automático y generar cuentas de acumulación&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="309" y="1340" width="331" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-37" value="&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Saldos de créditos para:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Compensación&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Reimputación&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Devolución&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="470" y="1050" width="150" height="80" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-37" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Información para emisión de resoluciones de multa&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="890" y="670" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-38" value="&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;5. Información&lt;br&gt;para propuesta de Declaración Jurada del IGV – Formulario 621&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="820" y="25" width="310" height="80" as="geometry" />
@@ -220,35 +233,70 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-45" value="Gestión Cuentas Acumulación" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="363" y="210" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-46" target="605iq-lV5Hz9d19N_AwI-4">
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-46" target="605iq-lV5Hz9d19N_AwI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-46" value="Determinación de Omisos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="558" y="420" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-51" value="MIGE" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="830" y="797" width="50" height="50" as="geometry" />
+          <mxGeometry x="940" y="514" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-52" value="Cuentas de Control de Retenciones y Percepciones" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="1010" y="797" width="50" height="50" as="geometry" />
+          <mxGeometry x="1010" y="540" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-53" value="Padrón de Contribuyentes" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="920" y="405" width="59" height="59" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-53" value="Padrón RUC" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="351" y="455" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-54" target="rfN_ANFpvwZ0smsy0Tpu-55">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622" y="910" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-54" value="Liquidacion Centralizada&amp;nbsp;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="580" y="890" width="50" height="50" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startArrow=none;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622" y="910" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-55" target="rfN_ANFpvwZ0smsy0Tpu-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-55" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="738" y="890" width="48" height="50" as="geometry" />
+          <mxGeometry x="790" y="890" width="48" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-57" value="RSIRAT&lt;br&gt;Ordenes de Pago&lt;br&gt;(informix)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="890" y="885" width="60" height="60" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-57" value="RSIRAT&lt;br&gt;Ordenes de Pago&lt;br&gt;(informix)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;gradientDirection=north;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="942" y="885" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-59" value="Ordenes de Pago" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="790" y="990" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-62" target="rfN_ANFpvwZ0smsy0Tpu-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632" y="1055" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-62" value="Consulta de Ordenes de Pago" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="558" y="1030" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-66" target="rfN_ANFpvwZ0smsy0Tpu-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-66" value="(diario)&lt;br&gt;8:00 am" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.event_time_based;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="500" y="877" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-67" value="SINE" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="810" y="574" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="902" />
+              <mxPoint x="710" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-70" value="Liquidación Centralizada" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="620" y="877" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dba_KshNGZGqnBGReFBX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="Dba_KshNGZGqnBGReFBX-4" target="Dba_KshNGZGqnBGReFBX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -276,6 +324,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Dba_KshNGZGqnBGReFBX-4" target="rfN_ANFpvwZ0smsy0Tpu-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="259" />
+              <mxPoint x="150" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Dba_KshNGZGqnBGReFBX-4" value="Contribuyentes&lt;br&gt;PN/PJ" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="78" height="78" as="geometry" />
         </mxCell>
@@ -295,6 +351,14 @@
               <mxPoint x="170" y="1285" />
               <mxPoint x="240" y="1285" />
               <mxPoint x="240" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1" source="Dba_KshNGZGqnBGReFBX-5" target="rfN_ANFpvwZ0smsy0Tpu-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="849" />
+              <mxPoint x="130" y="1140" />
             </Array>
           </mxGeometry>
         </mxCell>
