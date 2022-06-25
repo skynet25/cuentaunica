@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:07:35.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ke6tRCldBFm33Jysrh6t" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:10:41.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HgqNfC-iZ_NFvEVGO3Dr" version="20.0.3" type="github">
   <diagram id="YyVtHMCVjJAJdgX77xl3" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
           <mxGeometry x="299" y="10" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-43" value="&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;6. Liquidación&lt;br&gt;Centralizada de Tributos&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="530" y="815" width="170" height="50" as="geometry" />
+          <mxGeometry x="477" y="797" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-44" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Renta PN&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Renta PJ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;IGV&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="265" y="105" width="60" height="50" as="geometry" />
@@ -251,19 +251,19 @@
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="622" y="910" as="sourcePoint" />
+            <mxPoint x="642" y="990" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="724" y="880" />
-              <mxPoint x="724" y="921" />
+              <mxPoint x="744" y="960" />
+              <mxPoint x="744" y="1001" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startArrow=none;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="622" y="910" as="sourcePoint" />
+            <mxPoint x="642" y="990" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="710" y="890" />
-              <mxPoint x="710" y="1019" />
+              <mxPoint x="730" y="970" />
+              <mxPoint x="730" y="1099" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -271,31 +271,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-55" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="790" y="890" width="48" height="50" as="geometry" />
+          <mxGeometry x="810" y="970" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-57" value="RSIRAT&lt;br&gt;Ordenes de Pago&lt;br&gt;(informix)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;gradientDirection=north;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="942" y="885" width="60" height="60" as="geometry" />
+          <mxGeometry x="962" y="965" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-59" value="Ordenes de Pago" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="790" y="990" width="58" height="58" as="geometry" />
+          <mxGeometry x="830" y="1110" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-62" target="rfN_ANFpvwZ0smsy0Tpu-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="632" y="1055" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="730" y="1130" />
-              <mxPoint x="730" y="1034" />
+              <mxPoint x="830" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-62" value="Consulta de Ordenes de Pago" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="340" y="1110" width="50" height="50" as="geometry" />
+          <mxGeometry x="309" y="1130" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-66" target="rfN_ANFpvwZ0smsy0Tpu-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-66" value="(diario)&lt;br&gt;8:00 am" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.event_time_based;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="490" y="865" width="47" height="47" as="geometry" />
+          <mxGeometry x="495" y="970" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-67" value="SINE" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
           <mxGeometry x="810" y="574" width="50" height="50" as="geometry" />
@@ -303,8 +302,10 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="880" />
-              <mxPoint x="730" y="620" />
+              <mxPoint x="780" y="970" />
+              <mxPoint x="780" y="880" />
+              <mxPoint x="770" y="880" />
+              <mxPoint x="770" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -312,27 +313,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-70" value="Liquidación Centralizada" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="608" y="865" width="50" height="50" as="geometry" />
+          <mxGeometry x="628" y="945" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-75" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Obtener Saldo Deudor del IGV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Detectar y Validar Preliminares de valores IGV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Generar Cuenta de acumulación para preliminares&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Emisión de Ordenes de Pago de Preliminar (automatica/semi-automatica)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="750" y="1090" width="280" height="90" as="geometry" />
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-75" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Obtener Saldo Deudor del IGV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Detectar y Validar Preliminares de valores IGV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Generar Cuenta de acumulación para preliminares&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Emisión de Ordenes de Pago de Preliminar (automatica/semi-automatica)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Reversión de Ordenes de Pago&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="480" y="847" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-76" target="rfN_ANFpvwZ0smsy0Tpu-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="1075" />
-              <mxPoint x="710" y="1019" />
+              <mxPoint x="730" y="1155" />
+              <mxPoint x="730" y="1150" />
+              <mxPoint x="830" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-76" value="Emisión de Ordenes de Pago" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="618" y="1050" width="50" height="50" as="geometry" />
+          <mxGeometry x="637" y="1150" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-79" target="rfN_ANFpvwZ0smsy0Tpu-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-79" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="618" y="960" width="48" height="50" as="geometry" />
+          <mxGeometry x="638" y="1040" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dba_KshNGZGqnBGReFBX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="Dba_KshNGZGqnBGReFBX-4" target="Dba_KshNGZGqnBGReFBX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -364,7 +366,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="259" />
-              <mxPoint x="150" y="1200" />
+              <mxPoint x="150" y="1270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -394,7 +396,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="849" />
-              <mxPoint x="130" y="1215" />
+              <mxPoint x="130" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -402,7 +404,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="849" />
-              <mxPoint x="130" y="1150" />
+              <mxPoint x="130" y="1220" />
+              <mxPoint x="710" y="1220" />
+              <mxPoint x="710" y="1310" />
             </Array>
           </mxGeometry>
         </mxCell>
