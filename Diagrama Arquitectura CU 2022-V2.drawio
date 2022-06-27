@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T16:06:54.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DDFLusU18WeKM77-No8D" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T17:14:12.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0nzr7w_r919aeMogcGFG" version="20.0.3" type="github">
   <diagram id="YyVtHMCVjJAJdgX77xl3" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-21" value="&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;4. Automatización&lt;br&gt;y Uniformización de Solicitudes de Procedimientos no Contenciosos&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;ES&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
           <mxGeometry x="54" y="1210" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-22" target="rfN_ANFpvwZ0smsy0Tpu-27" edge="1">
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-22" target="rfN_ANFpvwZ0smsy0Tpu-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="267.13" y="1606" />
@@ -185,7 +185,7 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-26" value="Solicitudes" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
           <mxGeometry x="542" y="1330" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-27" target="rfN_ANFpvwZ0smsy0Tpu-26" edge="1">
+        <mxCell id="rfN_ANFpvwZ0smsy0Tpu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-27" target="rfN_ANFpvwZ0smsy0Tpu-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="1359" />
@@ -197,9 +197,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="356" y="1260" />
-              <mxPoint x="400" y="1260" />
-              <mxPoint x="400" y="1210" />
-              <mxPoint x="450" y="1210" />
+              <mxPoint x="450" y="1260" />
               <mxPoint x="450" y="300" />
               <mxPoint x="530" y="300" />
               <mxPoint x="530" y="140" />
@@ -253,8 +251,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="642" y="990" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="760" y="1180" />
-              <mxPoint x="760" y="1300" />
+              <mxPoint x="760" y="1240" />
+              <mxPoint x="760" y="1301" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,7 +282,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="632" y="1055" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="830" y="1130" />
+              <mxPoint x="830" y="1154" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -330,22 +328,30 @@
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-76" target="rfN_ANFpvwZ0smsy0Tpu-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="1170" />
+              <mxPoint x="760" y="1220" />
               <mxPoint x="760" y="1139" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-76" value="Emisión de Ordenes de Pago" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
-          <mxGeometry x="637" y="1150" width="50" height="50" as="geometry" />
+          <mxGeometry x="637" y="1210" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-79" target="rfN_ANFpvwZ0smsy0Tpu-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1180" />
+              <mxPoint x="660" y="1180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-79" value="Bus de Eventos" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
-          <mxGeometry x="638" y="1040" width="48" height="50" as="geometry" />
+          <mxGeometry x="631" y="1060" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-17" value="&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;1. Información&lt;br&gt;para Propuesta de Declaración de Impuesto a la Renta Anual de Personas&lt;br&gt;Jurídicas&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size:9.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&lt;br/&gt;Arial;mso-ansi-language:ES;mso-fareast-language:ES-PE;mso-bidi-language:AR-SA&quot; lang=&quot;ES&quot;&gt;2. Información&lt;br/&gt;para Propuesta de Declaración de Impuesto a la Renta Anual de Personas&lt;br/&gt;Naturales&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
           <mxGeometry x="471" y="-60" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DIFG98XEOqSEpMep4TaU-1" value="Gastos Deducibles&lt;br&gt;RRHH" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
+          <mxGeometry x="832" y="20" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dba_KshNGZGqnBGReFBX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="Dba_KshNGZGqnBGReFBX-4" target="Dba_KshNGZGqnBGReFBX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -369,15 +375,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="259" />
-              <mxPoint x="150" y="1410" />
+              <mxPoint x="150" y="1473" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="Dba_KshNGZGqnBGReFBX-4" target="rfN_ANFpvwZ0smsy0Tpu-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="259" />
-              <mxPoint x="150" y="1270" />
+              <mxPoint x="160" y="259" />
+              <mxPoint x="160" y="1270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -397,17 +403,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="839" />
-              <mxPoint x="170" y="1530" />
-              <mxPoint x="240" y="1530" />
-              <mxPoint x="240" y="1533" />
+              <mxPoint x="170" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" source="Dba_KshNGZGqnBGReFBX-5" target="rfN_ANFpvwZ0smsy0Tpu-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="849" />
-              <mxPoint x="130" y="1290" />
+              <mxPoint x="140" y="849" />
+              <mxPoint x="140" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -416,8 +420,8 @@
             <Array as="points">
               <mxPoint x="130" y="849" />
               <mxPoint x="130" y="1220" />
-              <mxPoint x="710" y="1220" />
-              <mxPoint x="710" y="1310" />
+              <mxPoint x="680" y="1220" />
+              <mxPoint x="680" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
