@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T01:28:11.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dtN2sJ3l6UgdVZidT_WE" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T01:41:02.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AGVfWMHgHIefUxzTlx8S" version="20.0.3" type="github">
   <diagram id="YyVtHMCVjJAJdgX77xl3" name="Page-1">
     <mxGraphModel dx="1562" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
           <mxGeometry x="558" y="420" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-51" value="MIGE" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
-          <mxGeometry x="812" y="790" width="50" height="50" as="geometry" />
+          <mxGeometry x="832" y="790" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-52" value="Cuentas de Control de&lt;br&gt;&amp;nbsp;Retenciones y Percepciones" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
           <mxGeometry x="930" y="790" width="50" height="50" as="geometry" />
@@ -295,15 +295,13 @@
           <mxGeometry x="495" y="970" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-67" value="SINE" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" parent="Dba_KshNGZGqnBGReFBX-1" vertex="1">
-          <mxGeometry x="880" y="690" width="50" height="50" as="geometry" />
+          <mxGeometry x="836" y="690" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfN_ANFpvwZ0smsy0Tpu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="Dba_KshNGZGqnBGReFBX-1" source="rfN_ANFpvwZ0smsy0Tpu-70" target="rfN_ANFpvwZ0smsy0Tpu-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="970" />
-              <mxPoint x="780" y="880" />
-              <mxPoint x="770" y="880" />
-              <mxPoint x="770" y="700" />
+              <mxPoint x="780" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -353,7 +351,7 @@
           <mxGeometry x="820" y="935" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DIFG98XEOqSEpMep4TaU-3" value="Gastos&lt;br&gt;Deducibles" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="Dba_KshNGZGqnBGReFBX-1">
-          <mxGeometry x="980" y="690" width="50" height="50" as="geometry" />
+          <mxGeometry x="930" y="690" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dba_KshNGZGqnBGReFBX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="Dba_KshNGZGqnBGReFBX-4" target="Dba_KshNGZGqnBGReFBX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
