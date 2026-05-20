@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Resumen TO_BE Desarrollo" id="lz8fQzSvxjUDzIY51Z93">
-    <mxGraphModel dx="4055" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3803" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BYtEYoFJfOwZF834UI9P-0" />
         <mxCell id="BYtEYoFJfOwZF834UI9P-1" parent="BYtEYoFJfOwZF834UI9P-0" />
@@ -1166,14 +1166,14 @@
             <mxRectangle height="30" width="200" x="563" y="1012" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHBX8tESfJn3SV1g4g8O-15" parent="kHBX8tESfJn3SV1g4g8O-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#050505;" value="api.mef.gob.pe:443" vertex="1">
+        <mxCell id="kHBX8tESfJn3SV1g4g8O-15" parent="kHBX8tESfJn3SV1g4g8O-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#050505;" value="&lt;span style=&quot;color: rgb(0, 0, 0); white-space: nowrap;&quot;&gt;api-mef-extranet-desa.sunat.peru&lt;br&gt;80&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="257.5" y="30" as="geometry" />
         </mxCell>
         <mxCell id="kHBX8tESfJn3SV1g4g8O-16" parent="kHBX8tESfJn3SV1g4g8O-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#050505;" value="/integraciones/sunat/v1" vertex="1">
           <mxGeometry height="30" width="257.5" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHBX8tESfJn3SV1g4g8O-20" parent="BYtEYoFJfOwZF834UI9P-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;upstream.conf&lt;/span&gt;" vertex="1">
-          <mxGeometry height="26" width="94" x="568.5" y="981" as="geometry" />
+        <mxCell id="kHBX8tESfJn3SV1g4g8O-20" parent="BYtEYoFJfOwZF834UI9P-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;&lt;span style=&quot;text-align: left; background-color: rgb(236, 236, 236);&quot;&gt;api-mef-extranet-desa.sunat.peru&lt;/span&gt;.conf&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="221" x="505.5" y="981" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
